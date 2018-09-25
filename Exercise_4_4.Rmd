@@ -1,6 +1,6 @@
 ---
-title: "Exercise__4"
-output: html_document
+title: "Exercise_4_4"
+output: github_document
 ---
 
 ```{r setup, include=FALSE}
